@@ -14,7 +14,16 @@
  - git commit -m "configure remote storage"
  - dvc push
  - git push origin main
+
+### decision-tree scores:
+- f1 score is: 0.7230046948356808
+- the accuracy score is: 0.9989642217618764
+
+### Random forest scores:
+- f1 score is: 0.8969696969696971
+- the accuracy score is: 0.9997015554229135
  
  
+ ## Screenshot of the aws s3 bucket
  
- 
+ ![Screenshot (346)](https://user-images.githubusercontent.com/63214321/126049599-77524bfe-f0ad-4c78-85c4-00055bbbb7fa.png)
